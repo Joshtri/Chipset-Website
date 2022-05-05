@@ -29,6 +29,8 @@
     top: 468px; */
 }
 
+
+
 .Primary
 {    
     
@@ -104,3 +106,19 @@
     background-color: #246FB5;
     display: block;
 } */
+
+.mainoption button:hover 
+{
+    color : black;
+    /* text-color : white; */
+    
+    filter: brightness(120%);
+}
+
+.GuestButton button:hover
+{
+    color : gainsboro;
+    /* text-color : white; */
+    
+    filter: brightness(120%);
+}
